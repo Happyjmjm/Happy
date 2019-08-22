@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>teste</title>
+
+	<script>
+		let nome=prompt()
+
+		console.log(nome || 'Desconhecido' )
+		
+		document.write(nome)
+		
+	</script>
+</head>
+<body>
+
+</body>
+</html>
